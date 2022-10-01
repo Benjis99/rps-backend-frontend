@@ -8,3 +8,6 @@ Made with:
 * github actions
 * postgres
 * migrate
+
+Backend with:
+* Vue.js
