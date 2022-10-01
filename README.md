@@ -9,5 +9,5 @@ Made with:
 * postgres
 * migrate
 
-Backend with:
+Frontend with:
 * Vue.js
